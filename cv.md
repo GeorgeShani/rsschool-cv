@@ -1,7 +1,7 @@
 # George Shanidze
 ## Software Engineer
 
-![Profile Photo](https://media.licdn.com/dms/image/v2/D4D35AQHhUXz3KwGv0A/profile-framedphoto-shrink_200_200/B4DZj7PK_zHsAY-/0/1756561715462?e=1759690800&v=beta&t=KzlpkRLINzhSqbqYoyouU0X9m6JdFL_Po1YtovPqUuE)
+![Profile Photo](https://media.licdn.com/dms/image/v2/D4D03AQGOqJgf7CCzvw/profile-displayphoto-shrink_400_400/B4DZUkLgsEGcAg-/0/1740068752606?e=1761782400&v=beta&t=cupYCzGxhc3JriO5pp6i_-xF4Bm24Y0urJv0e_nUz5I)
 
 ---
 
